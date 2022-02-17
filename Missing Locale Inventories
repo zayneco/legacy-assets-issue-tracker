@@ -1,0 +1,20 @@
+---
+name: Bug report regarding missing locales 
+about: Myself as well as multiple people in city have been encountering an error where items are false duplicating, or when placed they are deleting amongst themselves. 
+title: 'Missing Locales errors'
+labels: bug
+---
+
+**Reporter:**
+Who is reporting this? Zayne - Zayne#5545
+
+**Summary:**
+This is an issue that is something that has occured to more than just myself. The premises is that when items are taken from the original storage, they are sometimes replicated to be an error, where the item becomes a missing locale. Not sure of the exact cause.
+
+## Additional Information
+Refer to ticket 7059 for more info, or videos below.
+**Screenshots:**
+https://cdn.discordapp.com/attachments/686057091475046451/943758257313427536/unknown.png / https://cdn.discordapp.com/attachments/861615961244041226/943769189255102464/unknown.png
+
+**Notes:**
+A video I made in the past:https://youtu.be/zkmxQGJUQLQ / Video of a twitch streamer with the issue: https://clips.twitch.tv/OptimisticInspiringKimchiNinjaGrumpy-dsgPVDMH6gPTSzL0
